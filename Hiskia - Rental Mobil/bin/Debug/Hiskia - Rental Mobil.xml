@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hiskia-RentalMobil
+</name>
+</assembly>
+<members>
+<member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources._Exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Backup_DataBase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Ganti_Password">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Log_Off">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Mobil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Pelanggan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Peminjaman">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Pengembalian">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Petugas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.R1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.R2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hiskia___Rental_Mobil.My.Resources.Resources.Supir">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Hiskia___Rental_Mobil.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
